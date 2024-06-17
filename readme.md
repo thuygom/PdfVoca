@@ -99,4 +99,4 @@ Pdf 자료를 분석한 단어 테스트 어플리케이션
 | mysql          |
 
 ### 2.7 발표영상
-
+https://www.youtube.com/watch?v=tlw3Ll2IDAA&t=18s
