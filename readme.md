@@ -49,8 +49,7 @@ Pdf 자료를 분석한 단어 테스트 어플리케이션
 - android 어플리케이션에서 database에서 값을 받아와 단어 test를 본다.
 
 #### 2.2 프로젝트 구조
-
-![image-20240617174109014](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174109014.png)
+![image](https://github.com/thuygom/PdfVoca/assets/138266353/4d3b4898-1300-49c0-9695-5fd1837820b0)
 
 ![image-20240617174130666](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174130666.png)
 
