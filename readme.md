@@ -65,19 +65,15 @@ Pdf 자료를 분석한 단어 테스트 어플리케이션
 
 - 단어 등록
 
-  ![image-20240617174548626](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174548626.png)
-
-  ![image-20240617174705134](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174705134.png)
-
-  
+![제목 없음](https://github.com/thuygom/PdfVoca/assets/138266353/9b268e5c-d144-4e3f-8024-86718b9ff0b5)
 
 - 단어 맞추기
 
-  ![image-20240617174722296](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174722296.png)
+![image](https://github.com/thuygom/PdfVoca/assets/138266353/eb56ab09-fc50-4e91-8050-9f9adaaf2f5e)
 
 - 영단어 공부
 
-  ![image-20240617174745455](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174745455.png)
+![image](https://github.com/thuygom/PdfVoca/assets/138266353/e13e4acf-a648-4ad2-9543-f4aab80501f1)
 
 ### 2.4 기대효과
 
