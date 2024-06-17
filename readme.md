@@ -100,5 +100,6 @@ Pdf 자료를 분석한 단어 테스트 어플리케이션
 
 ### 2.7 발표영상
 
-[![image](https://github.com/thuygom/PdfVoca/assets/138266353/8bb2e865-6fa8-477a-a31f-7d1b9f2d012d)]([링크 URL](https://www.youtube.com/watch?v=tlw3Ll2IDAA&t=18s))
+[![image](https://github.com/thuygom/PdfVoca/assets/138266353/8bb2e865-6fa8-477a-a31f-7d1b9f2d012d)](https://www.youtube.com/watch?v=tlw3Ll2IDAA&t=18s)
+
 
