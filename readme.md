@@ -100,6 +100,7 @@ Pdf 자료를 분석한 단어 테스트 어플리케이션
 
 ### 2.7 발표영상
 이미지 클릭하면 유튜브 영상으로 갑니다. 하이퍼 링크 걸어놓았어요
+
 [![image](https://github.com/thuygom/PdfVoca/assets/138266353/8bb2e865-6fa8-477a-a31f-7d1b9f2d012d)](https://www.youtube.com/watch?v=tlw3Ll2IDAA&t=18s)
 
 
