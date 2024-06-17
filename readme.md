@@ -51,17 +51,17 @@ Pdf 자료를 분석한 단어 테스트 어플리케이션
 #### 2.2 프로젝트 구조
 ![image](https://github.com/thuygom/PdfVoca/assets/138266353/4d3b4898-1300-49c0-9695-5fd1837820b0)
 
-![image-20240617174130666](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174130666.png)
+![image](https://github.com/thuygom/PdfVoca/assets/138266353/1db737f7-00c8-4136-ad84-e109126b360c)
 
 ### 2.3 결과물
 
 - Login
 
-  ![image-20240617174458847](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174458847.png)
+![image](https://github.com/thuygom/PdfVoca/assets/138266353/ebbafd1b-4f34-4cf6-9ac3-42389c9fa6f4)
 
 - Main
 
-  ![image-20240617174526579](C:\Users\repli\AppData\Roaming\Typora\typora-user-images\image-20240617174526579.png)
+![image](https://github.com/thuygom/PdfVoca/assets/138266353/8bb2e865-6fa8-477a-a31f-7d1b9f2d012d)
 
 - 단어 등록
 
